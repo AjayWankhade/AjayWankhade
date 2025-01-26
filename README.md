@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+- 📫 How to reach me: ajaywankhade666@gmail.com
+- 😄 My website: https://my-portfolio-phi-navy-73.vercel.app/
+
   
 ### Connect with me:
 <div id="badges">
