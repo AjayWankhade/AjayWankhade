@@ -1,8 +1,8 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Ajay Wankhade</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m currently working on python
+- 🌱 I’m currently learning Power BI,Pandas
+- 💬 Ask me anything about backend
 - 📫 How to reach me: ajaywankhade666@gmail.com
 - 😄 My website: https://my-portfolio-phi-navy-73.vercel.app/
 
